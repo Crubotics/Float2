@@ -1,3 +1,12 @@
+
+#library installations for float code 2025
+#python3 -m pip install adafruit-circuitpython-lps35hw
+#python3 -m pip install RPi.GPIO
+#python3 -m pip install pyserial
+#python3 -m pip install spidev
+
+
+
 import board
 import busio
 import adafruit_lps35hw
