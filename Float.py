@@ -4,8 +4,7 @@
 #python3 -m pip install RPi.GPIO
 #python3 -m pip install pyserial
 #python3 -m pip install spidev
-
-
+#hello 
 
 import board
 import busio
